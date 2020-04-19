@@ -1,6 +1,6 @@
 
 global.jok = ds_list_create() //list for the object you need to find
-
+instance_create_layer(room_width /2 ,room_height,"Instances",find_bar)
 
 
 
@@ -10,32 +10,32 @@ global.jok = ds_list_create() //list for the object you need to find
 
 //database for the objects you need to find
 global.goods[0,0] = 0 //image index
-global.goods[0,1] = "Clock"  //text
+global.goods[0,1] = "Ball"  //text
 
 global.goods[1,0] = 1
-global.goods[1,1] = "Phone"
+global.goods[1,1] = "Balloon"
 
 global.goods[2,0] = 2
-global.goods[2,1] = "Book"
+global.goods[2,1] = "Lightbulb"
 
 global.goods[3,0] = 3
-global.goods[3,1] = "Lamp"
+global.goods[3,1] = "Cup"
 
 global.goods[4,0] = 4
-global.goods[4,1] = "Rug"
+global.goods[4,1] = "Battery"
 
 global.goods[5,0] = 5
-global.goods[5,1] = "Diary"
+global.goods[5,1] = "Chicken's Head"
 
 global.goods[6,0] = 6
-global.goods[6,1] = "Dad"
+global.goods[6,1] = "Electric Cable"
 
 global.goods[7,0] = 7
-global.goods[7,1] = "Toys"
+global.goods[7,1] = "Map"
 
 global.goods[8,0] = 8
-global.goods[8,1] = "Mum"
-
+global.goods[8,1] = "Bunting"
+/*
 global.goods[9,0] = 9
 global.goods[9,1] = "Poster"
 
@@ -72,7 +72,7 @@ i = 0
 while (i < 10)  //create all the good objects
     {
     ds_list_add(global.jok,global.goods[i,0])
-    mm = instance_create_layer(0,0,"Instances",bedroom_obj_good)
+    mm = instance_create_layer(0,0,"Instances",school_obj_good)
     mm.image_index = i
     i++
     }

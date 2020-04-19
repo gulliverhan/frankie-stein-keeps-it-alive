@@ -1,6 +1,6 @@
 
 global.jok = ds_list_create() //list for the object you need to find
-
+instance_create_layer(room_width /2 ,room_height,"Instances",find_bar)
 
 
 
@@ -16,7 +16,7 @@ global.goods[1,0] = 1
 global.goods[1,1] = "Phone"
 
 global.goods[2,0] = 2
-global.goods[2,1] = "Book"
+global.goods[2,1] = "Books"
 
 global.goods[3,0] = 3
 global.goods[3,1] = "Lamp"
