@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "3c118ef2-443f-494b-aeaf-42744f6e6e5e",
+            "Value": {
+                "id": "efd416c3-ef74-449e-ab0f-d9154cf65fe7",
+                "resourcePath": "paths\/path0\/path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "452589ff-8135-4476-af68-baa2ad4046ac",
             "Value": {
                 "id": "edddcea8-9564-4390-979f-04e7368fa37c",
@@ -143,11 +151,27 @@
             }
         },
         {
+            "Key": "54f49c26-2d43-47f6-a7ee-78ddbf65b6eb",
+            "Value": {
+                "id": "7c63f724-97a4-4709-88d0-ccb6a2380358",
+                "resourcePath": "sprites\/speech_bubble1\/speech_bubble1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "583ac712-e6ab-405a-b1d9-83076e6109ff",
             "Value": {
                 "id": "2ee7e8df-4e52-4774-8837-2564d46b8fa7",
                 "resourcePath": "objects\/object0_welcome_title\/object0_welcome_title.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6c0bacaa-4c43-4d1d-a267-50a079f48ed4",
+            "Value": {
+                "id": "39e5c1c3-e558-482f-afaa-8c02c9832850",
+                "resourcePath": "sprites\/bedroom_bg_all\/bedroom_bg_all.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -183,11 +207,27 @@
             }
         },
         {
+            "Key": "83a6bdd8-600d-4566-9362-6b11e71c592e",
+            "Value": {
+                "id": "eda8d609-e2eb-4edd-a898-25edf71d57d5",
+                "resourcePath": "sprites\/frankie_head\/frankie_head.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "88e56a44-929f-4703-bd06-3c13aab5a4e4",
             "Value": {
                 "id": "04345c06-9118-4aa1-b48a-9c089c709720",
                 "resourcePath": "views\/88e56a44-929f-4703-bd06-3c13aab5a4e4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "90554b6a-0bee-401e-a582-9ac53be050e4",
+            "Value": {
+                "id": "9ad3b2c4-4d05-4088-8193-8a34df6ecce4",
+                "resourcePath": "objects\/speech_0\/speech_0.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,11 +239,27 @@
             }
         },
         {
+            "Key": "9e76fcf7-8669-4970-a119-85a5031a6dae",
+            "Value": {
+                "id": "9e635897-fd48-4d0e-a619-b8fb22f8c8b8",
+                "resourcePath": "views\/9e76fcf7-8669-4970-a119-85a5031a6dae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a97eeeea-0f83-4fb7-ac86-55aa002cb3af",
             "Value": {
                 "id": "a392da66-f2cd-48e8-8190-0c8bf603b342",
                 "resourcePath": "sprites\/bedroom_bg\/bedroom_bg.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aaad6ce0-4e89-4cc2-b7fb-b08006a92bf9",
+            "Value": {
+                "id": "05a000fd-bc03-40b6-b5a5-c1254d11f64b",
+                "resourcePath": "rooms\/room1_talking\/room1_talking.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -287,6 +343,14 @@
             }
         },
         {
+            "Key": "d1b78c11-0862-4d14-a15e-ca3bd76f3e0d",
+            "Value": {
+                "id": "37049073-79cb-408c-8231-4ae74293c761",
+                "resourcePath": "objects\/frankie_0\/frankie_0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e2681cb7-1e60-46e9-8b55-b86823c64c44",
             "Value": {
                 "id": "daf91374-c0c8-47c7-8e87-cbb640945955",
@@ -331,6 +395,14 @@
             "Value": {
                 "id": "7f39038e-c8c2-426b-bba2-fc06b496740f",
                 "resourcePath": "views\/f8a2e52a-f648-47eb-bd5a-32e867bf5a18.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd39e363-2ad5-415f-a271-d7ac1904b12a",
+            "Value": {
+                "id": "b6fd1848-982f-4222-a8c2-2ab471feb7f7",
+                "resourcePath": "views\/fd39e363-2ad5-415f-a271-d7ac1904b12a.yy",
                 "resourceType": "GMFolder"
             }
         }
