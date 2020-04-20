@@ -1,6 +1,6 @@
 
 {
-    "name": "room2_school",
+    "name": "room2_school_ho",
     "id": "137c7b5c-f922-4405-80bc-67d06070f3ae",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,

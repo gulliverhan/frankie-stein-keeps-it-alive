@@ -10,35 +10,35 @@ global.allow_clicks = true;
 
 //database for the objects you need to find
 global.goods[0,0] = 0 //image index
-global.goods[0,1] = "Ball"  //text
+global.goods[0,1] = "Camera R"  //text
 
 global.goods[1,0] = 1
-global.goods[1,1] = "Balloon"
+global.goods[1,1] = "Paper"
 
 global.goods[2,0] = 2
-global.goods[2,1] = "Lightbulb"
+global.goods[2,1] = "Tripod"
 
 global.goods[3,0] = 3
-global.goods[3,1] = "Cup"
+global.goods[3,1] = "Rope"
 
 global.goods[4,0] = 4
-global.goods[4,1] = "Battery"
+global.goods[4,1] = "Camera L"
 
 global.goods[5,0] = 5
-global.goods[5,1] = "Ruler"
+global.goods[5,1] = "Binoculars"
 
 global.goods[6,0] = 6
-global.goods[6,1] = "Electric Cable"
+global.goods[6,1] = "Flower"
 
 global.goods[7,0] = 7
-global.goods[7,1] = "Map"
+global.goods[7,1] = "Elephant"
 
 global.goods[8,0] = 8
-global.goods[8,1] = "Bunting"
-/*
-global.goods[9,0] = 9
-global.goods[9,1] = "Poster"
+global.goods[8,1] = "Bowl"
 
+global.goods[9,0] = 9
+global.goods[9,1] = "Lenses"
+/*
 global.goods[10,0] = 10
 global.goods[10,1] = "Flower"
 /*
@@ -69,10 +69,10 @@ global.goods[17,1] = "Ink"
 
     
 i = 0
-while (i < 9)  //create all the good objects
+while (i < 10)  //create all the good objects
     {
     ds_list_add(global.jok,global.goods[i,0])
-    mm = instance_create_layer(0,0,"Instances",school_obj_good)
+    mm = instance_create_layer(0,0,"Instances",camera_obj_good)
     mm.image_index = i
     i++
     }
