@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0fe1c566-b1e7-4912-a3a6-e1641135f514",
+            "Value": {
+                "id": "ca20b002-e88b-4bec-8c3a-ee1c2c85fdc1",
+                "resourcePath": "sprites\/spr_bedroom_zoom2_sounds2\/spr_bedroom_zoom2_sounds2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "137c7b5c-f922-4405-80bc-67d06070f3ae",
             "Value": {
                 "id": "f95cf47c-2300-4b12-8c97-8f75b707fa18",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "5142789f-1e8f-4db7-81c8-8ed6fe9878e1",
+            "Value": {
+                "id": "264c6235-a663-4c03-a2f4-46337c5850e4",
+                "resourcePath": "sprites\/spr_bedroom_bg_zoom2\/spr_bedroom_bg_zoom2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5181fca5-37a9-47c6-b7dd-bc213c6c4c59",
             "Value": {
                 "id": "e06f8870-023d-446a-8f7c-68346fa543e8",
@@ -220,6 +236,14 @@
                 "id": "59d11c61-55d7-4d6e-adb7-5fd756a7ab5b",
                 "resourcePath": "objects\/button_next_step\/button_next_step.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5cf55329-d405-489a-8d2a-e3880662569b",
+            "Value": {
+                "id": "37f66e3d-1111-4a23-8fda-4e2852e97468",
+                "resourcePath": "sprites\/spr_bedroom_zoom_sounds1\/spr_bedroom_zoom_sounds1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +300,14 @@
                 "id": "105c12dc-99d3-42be-8565-bc31b94451ad",
                 "resourcePath": "views\/792be85a-3c82-4b87-a0aa-57bc97e9785d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b546a22-f2c3-43a8-8f9b-d1babf218f48",
+            "Value": {
+                "id": "9184cf78-0956-4c53-93f4-dee49c4f235e",
+                "resourcePath": "sprites\/spr_bedroom_bg_zoom1\/spr_bedroom_bg_zoom1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
