@@ -1,6 +1,6 @@
 
 {
-    "name": "room0_welcome",
+    "name": "start_screen",
     "id": "6ff92dc3-3d13-441e-8d0f-8f008d6d2265",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,

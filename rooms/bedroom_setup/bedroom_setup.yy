@@ -1,8 +1,8 @@
 
 {
-    "name": "room1_talking",
+    "name": "bedroom_setup",
     "id": "aaad6ce0-4e89-4cc2-b7fb-b08006a92bf9",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

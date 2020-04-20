@@ -22,25 +22,22 @@ global.goods[3,0] = 3
 global.goods[3,1] = "Lamp"
 
 global.goods[4,0] = 4
-global.goods[4,1] = "Rug"
+global.goods[4,1] = "Diary"
 
 global.goods[5,0] = 5
-global.goods[5,1] = "Diary"
+global.goods[5,1] = "Dad"
 
 global.goods[6,0] = 6
-global.goods[6,1] = "Dad"
+global.goods[6,1] = "Toys"
 
 global.goods[7,0] = 7
-global.goods[7,1] = "Toys"
+global.goods[7,1] = "Mum"
 
 global.goods[8,0] = 8
-global.goods[8,1] = "Mum"
+global.goods[8,1] = "Poster"
 
 global.goods[9,0] = 9
-global.goods[9,1] = "Poster"
-
-global.goods[10,0] = 10
-global.goods[10,1] = "Flower"
+global.goods[9,1] = "Flower"
 /*
 global.goods[11,0] = 11
 global.goods[11,1] = "Poison"
@@ -69,7 +66,7 @@ global.goods[17,1] = "Ink"
 
     
 i = 0
-while (i < 10)  //create all the good objects
+while (i < 9)  //create all the good objects
     {
     ds_list_add(global.jok,global.goods[i,0])
     mm = instance_create_layer(0,0,"Instances",bedroom_obj_good)

@@ -69,7 +69,7 @@ global.goods[17,1] = "Ink"
 
     
 i = 0
-while (i < 10)  //create all the good objects
+while (i < 9)  //create all the good objects
     {
     ds_list_add(global.jok,global.goods[i,0])
     mm = instance_create_layer(0,0,"Instances",school_obj_good)

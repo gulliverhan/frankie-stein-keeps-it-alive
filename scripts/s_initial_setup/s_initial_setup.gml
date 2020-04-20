@@ -1,0 +1,1 @@
+global.bear_find = false;

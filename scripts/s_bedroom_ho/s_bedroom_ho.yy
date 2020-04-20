@@ -1,8 +1,8 @@
 {
-    "id": "9bd9ce6f-a4ea-43df-a7ff-4417871e6ac5",
+    "id": "452589ff-8135-4476-af68-baa2ad4046ac",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "school1",
+    "name": "s_bedroom_ho",
     "IsCompatibility": false,
     "IsDnD": false
 }
