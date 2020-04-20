@@ -5,6 +5,7 @@ if(global.allow_clicks == true){
 	var explain = instance_create_layer(0,100,"Instances_ui",obj_popup_explain)
 	explain.this_obj = self;
 	explain.this_idx = image_index;
+	audio_play_sound(sound4_bleep, 10, false);
 	//instance_destroy()  
 	if(ds_list_size(global.jok) == 0){
 		instance_create_layer(416,544,"Instances",button_next)
