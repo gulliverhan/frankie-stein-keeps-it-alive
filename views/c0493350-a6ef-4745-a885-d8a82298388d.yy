@@ -17,7 +17,9 @@
         "4b3c3199-d2a0-447e-a423-c3abdec9ec30",
         "3c1b2a40-ec10-4c71-9e30-78044d0483d9",
         "d95cca73-c0b6-4085-a060-c6333c77dadc",
-        "ceb23f3e-1b27-40de-92c4-50493257a9d9"
+        "ceb23f3e-1b27-40de-92c4-50493257a9d9",
+        "ec790035-a574-4470-99c6-69cc6a853957",
+        "43b358ca-7187-4402-8c1f-0354593ca7ef"
     ],
     "filterType": "GMSprite",
     "folderName": "bedroom",
