@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "ec790035-a574-4470-99c6-69cc6a853957",
+            "Value": {
+                "id": "10ea704d-77dc-47a5-ae47-de397b58d2d8",
+                "resourcePath": "sprites\/spr_frankie_all_faces\/spr_frankie_all_faces.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee495aa2-0db0-4896-9686-088d2bc87239",
             "Value": {
                 "id": "b7ee1c49-db44-482d-b697-9acc7e75f982",
