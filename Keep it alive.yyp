@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "044bcf1e-9ccb-4e71-a51d-fa4925316676",
-            "Value": {
-                "id": "08b57dca-0d36-404d-9dc4-5a022047d42b",
-                "resourcePath": "sprites\/spr_shoeshop_bg_all\/spr_shoeshop_bg_all.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "097425c9-85b4-432b-a323-387089c30bff",
             "Value": {
                 "id": "889d7e57-cf0c-4cf5-9150-839cdf6e7ccc",
@@ -359,6 +351,14 @@
             }
         },
         {
+            "Key": "4d56b957-d96a-458b-80f5-5b826280377e",
+            "Value": {
+                "id": "95c1ec4c-fcfa-4360-9234-1e6986669977",
+                "resourcePath": "sprites\/spr_shoeshop_items\/spr_shoeshop_items.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "511b6f70-e16d-4557-b604-f94ac12c9742",
             "Value": {
                 "id": "ad2308e0-94ae-4ef5-ba84-c79052a3ed01",
@@ -452,6 +452,14 @@
                 "id": "fe53188c-9e3f-4641-86db-53c90ef3155d",
                 "resourcePath": "views\/6c65ffa9-0242-43f8-ad77-fc340140e708.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6cdca558-32cf-4f32-a348-2eadb82d5011",
+            "Value": {
+                "id": "ef0ef697-1a7b-4edd-928c-ce9a05bc538d",
+                "resourcePath": "sprites\/spr_museum_items\/spr_museum_items.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -823,6 +831,14 @@
             }
         },
         {
+            "Key": "c05169a3-1545-4648-aa81-43384323433d",
+            "Value": {
+                "id": "f127d6b4-3cd1-4fa7-aa96-96e86c5b2782",
+                "resourcePath": "sprites\/spr_shoeshop_bg_all\/spr_shoeshop_bg_all.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c16ad016-eec1-449d-a4d0-1c3828a0658a",
             "Value": {
                 "id": "98555f51-a47e-4727-97f0-bce9c6623a90",
@@ -860,6 +876,14 @@
                 "id": "575b76a4-51ce-4df9-ae6a-fec7300b1b9f",
                 "resourcePath": "rooms\/room3_camera_before\/room3_camera_before.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c841b949-bc12-4614-8015-fb307e26de41",
+            "Value": {
+                "id": "99de7d09-a9f0-4f19-8939-c60d81937282",
+                "resourcePath": "sprites\/spr_museum_bg_all\/spr_museum_bg_all.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -935,27 +959,11 @@
             }
         },
         {
-            "Key": "d2eba0be-cbfe-4b96-9f2e-7a5abaea744a",
-            "Value": {
-                "id": "7c7aac4c-3e26-48f5-ac05-4bb0ebc995c8",
-                "resourcePath": "sprites\/spr_shoeshop_items\/spr_shoeshop_items.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d385d66a-1291-4d86-b957-be9d24532169",
             "Value": {
                 "id": "57628ef6-e8e5-41eb-af06-8a293e5585fd",
                 "resourcePath": "rooms\/bedroom_bearfind\/bedroom_bearfind.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "d70032e1-3c88-457f-8c8f-c6e0bf29614c",
-            "Value": {
-                "id": "953720a8-1631-489c-a9d3-0bf01e3165f4",
-                "resourcePath": "sprites\/spr_museum_items\/spr_museum_items.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -980,14 +988,6 @@
                 "id": "90b0daa4-fdce-4f18-92ee-2cacd61b9d17",
                 "resourcePath": "objects\/o_schoolbefore_controller\/o_schoolbefore_controller.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "e088f1d0-6112-4ed1-811a-ac1a13f584c5",
-            "Value": {
-                "id": "c16d6fd4-7241-4fbf-9a67-90a48c267ca9",
-                "resourcePath": "sprites\/spr_museum_bg_all\/spr_museum_bg_all.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

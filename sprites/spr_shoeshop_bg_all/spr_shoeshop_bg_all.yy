@@ -1,5 +1,5 @@
 {
-    "id": "044bcf1e-9ccb-4e71-a51d-fa4925316676",
+    "id": "c05169a3-1545-4648-aa81-43384323433d",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_shoeshop_bg_all",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "7c64c087-146a-4029-8d9c-0efb2b5be8bc",
+            "id": "64f83746-0fc5-4281-9664-4d68ce0ac787",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "044bcf1e-9ccb-4e71-a51d-fa4925316676",
+            "SpriteId": "c05169a3-1545-4648-aa81-43384323433d",
             "compositeImage": {
-                "id": "15b01226-1cfa-462c-b153-8fb01144d1a6",
+                "id": "0c738d89-0c97-4b9a-b985-4a2aedb40d1e",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "7c64c087-146a-4029-8d9c-0efb2b5be8bc",
+                "FrameId": "64f83746-0fc5-4281-9664-4d68ce0ac787",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "a14dbef0-3b57-46b5-89e6-1848ff387bc3",
+                    "id": "b75964e8-17c6-4646-8e1a-85d42c421076",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "7c64c087-146a-4029-8d9c-0efb2b5be8bc",
-                    "LayerId": "7cbca45e-f91b-4701-bbb8-a5e46702e9db"
+                    "FrameId": "64f83746-0fc5-4281-9664-4d68ce0ac787",
+                    "LayerId": "d59d94ef-89b0-4c7a-8bd2-dd06688c55f1"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 768,
     "layers": [
         {
-            "id": "7cbca45e-f91b-4701-bbb8-a5e46702e9db",
+            "id": "d59d94ef-89b0-4c7a-8bd2-dd06688c55f1",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "044bcf1e-9ccb-4e71-a51d-fa4925316676",
+            "SpriteId": "c05169a3-1545-4648-aa81-43384323433d",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
