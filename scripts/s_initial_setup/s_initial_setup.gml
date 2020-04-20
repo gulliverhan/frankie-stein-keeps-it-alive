@@ -1,3 +1,9 @@
 global.bear_find = false;
 global.school_before = false;
 global.school_after = false;
+global.camera_before = false;
+global.camera_after = false;
+global.museum_before = false;
+global.museum_after = false;
+global.shoeshop_before = false;
+global.shoeshop_after = false;

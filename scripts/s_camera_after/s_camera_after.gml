@@ -1,6 +1,6 @@
 
-if(global.school_after == false){
-	global.school_after = true;
+if(global.camera_after == false){
+	global.camera_after = true;
 	global.step_change = false;
 	global.step_instances = [];
 	global.step = 0;

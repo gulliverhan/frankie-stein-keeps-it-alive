@@ -1,12 +1,12 @@
 
-if(global.camera_before == false){
-	global.camera_before = true;
+if(global.museum_before == false){
+	global.museum_before = true;
 	global.step_change = false;
 	global.step_instances = [];
 	global.step = 0;
 	global.this_inst1 = "";
 	global.this_inst2 = "";
-	s_school_before_script()
+	s_museum_before_script()
 
 } else {
 	if(global.step_change){
@@ -15,7 +15,7 @@ if(global.camera_before == false){
 			instance_destroy(global.step_instances[i]);
 		}
 		global.step++;
-		s_school_before_script();
+		s_museum_before_script();
 	}
 
 
