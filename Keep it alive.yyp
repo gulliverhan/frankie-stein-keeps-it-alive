@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "044bcf1e-9ccb-4e71-a51d-fa4925316676",
+            "Value": {
+                "id": "08b57dca-0d36-404d-9dc4-5a022047d42b",
+                "resourcePath": "sprites\/spr_shoeshop_bg_all\/spr_shoeshop_bg_all.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "097425c9-85b4-432b-a323-387089c30bff",
             "Value": {
                 "id": "889d7e57-cf0c-4cf5-9150-839cdf6e7ccc",
@@ -116,6 +124,14 @@
                 "id": "c3581ae5-ba58-40d0-aced-59c13f55b07f",
                 "resourcePath": "views\/1d2f9e2f-167a-41e5-b1c5-318442d9e4f7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1e4dd33b-5c85-4d04-912a-9d1138c790f4",
+            "Value": {
+                "id": "9ff06194-92af-4cdf-be9c-6e4c3bfabf4c",
+                "resourcePath": "sprites\/spr_camerashop_bg_all\/spr_camerashop_bg_all.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "3f1a689f-dd41-4ce7-8835-3111e11908bf",
+            "Value": {
+                "id": "bb77901a-ee5c-4e03-8a3e-e50ae137c79e",
+                "resourcePath": "sprites\/spr_school_bg_all\/spr_school_bg_all.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "41c406a5-f434-4f50-992e-3e53ab172dec",
             "Value": {
                 "id": "1d746d56-358d-496e-b36c-c43da4f1c42e",
@@ -283,14 +307,6 @@
             "Value": {
                 "id": "9bd0de4d-f969-47e8-a6c2-3c459e88a2f7",
                 "resourcePath": "sprites\/spr_empty_lightning_zoom_4\/spr_empty_lightning_zoom_4.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4e4504b0-930b-4a0c-a432-b3921ee45e52",
-            "Value": {
-                "id": "4bfa06b6-cbd0-41fb-8d9d-644968f7cf55",
-                "resourcePath": "sprites\/spr_school_items\/spr_school_items.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -535,6 +551,14 @@
             }
         },
         {
+            "Key": "a4b2e24e-39d9-46fa-849b-a33174d212e5",
+            "Value": {
+                "id": "60206d34-354c-4a50-bfc8-b587d0bc423b",
+                "resourcePath": "sprites\/spr_school_items\/spr_school_items.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5a5e696e-e93a-4e10-b684-1b3bb2fd2e8c",
@@ -738,7 +762,7 @@
             "Key": "d2eba0be-cbfe-4b96-9f2e-7a5abaea744a",
             "Value": {
                 "id": "7c7aac4c-3e26-48f5-ac05-4bb0ebc995c8",
-                "resourcePath": "sprites\/spr_showshop_items\/spr_showshop_items.yy",
+                "resourcePath": "sprites\/spr_shoeshop_items\/spr_shoeshop_items.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -763,6 +787,14 @@
             "Value": {
                 "id": "31804a59-84f4-455a-9f75-fc2a625f0bbd",
                 "resourcePath": "sprites\/spr_bedroom_zoom5_toanimate\/spr_bedroom_zoom5_toanimate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e088f1d0-6112-4ed1-811a-ac1a13f584c5",
+            "Value": {
+                "id": "c16d6fd4-7241-4fbf-9a67-90a48c267ca9",
+                "resourcePath": "sprites\/spr_museum_bg_all\/spr_museum_bg_all.yy",
                 "resourceType": "GMSprite"
             }
         },

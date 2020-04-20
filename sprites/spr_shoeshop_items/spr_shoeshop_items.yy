@@ -2,7 +2,7 @@
     "id": "d2eba0be-cbfe-4b96-9f2e-7a5abaea744a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_showshop_items",
+    "name": "spr_shoeshop_items",
     "For3D": false,
     "HTile": false,
     "VTile": false,
