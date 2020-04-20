@@ -11,33 +11,43 @@ instance_create_layer(room_width /2 ,room_height,"Instances",find_bar)
 //database for the objects you need to find
 global.goods[0,0] = 0 //image index
 global.goods[0,1] = "Clock"  //text
+global.goods[0,2] =   "this is a closk jjdjdj";
 
 global.goods[1,0] = 1
 global.goods[1,1] = "Phone"
+global.goods[1,2] =   "this is a phone";
 
 global.goods[2,0] = 2
 global.goods[2,1] = "Books"
+global.goods[2,2] =   "this are books";
 
 global.goods[3,0] = 3
 global.goods[3,1] = "Lamp"
+global.goods[3,2] =   "this is a lamp";
 
 global.goods[4,0] = 4
 global.goods[4,1] = "Diary"
+global.goods[4,2] =   "this is a diary";
 
 global.goods[5,0] = 5
 global.goods[5,1] = "Dad"
+global.goods[5,2] =   "this is a closk jjdjdj";
 
 global.goods[6,0] = 6
 global.goods[6,1] = "Toys"
+global.goods[6,2] =   "this is a closk jjdjdj";
 
 global.goods[7,0] = 7
 global.goods[7,1] = "Mum"
+global.goods[7,2] =   "this is a closk jjdjdj";
 
 global.goods[8,0] = 8
 global.goods[8,1] = "Poster"
+global.goods[8,2] =   "this is a closk jjdjdj";
 
 global.goods[9,0] = 9
 global.goods[9,1] = "Flower"
+global.goods[9,2] =   "this is a closk jjdjdj";
 /*
 global.goods[11,0] = 11
 global.goods[11,1] = "Poison"
