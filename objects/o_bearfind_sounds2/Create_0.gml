@@ -2,5 +2,5 @@
 // You can write your code in this editor
 view_length = 60
 view_counter = 0
-shake_length = 5
+shake_length = 110
 shake_strength=10

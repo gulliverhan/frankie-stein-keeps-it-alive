@@ -4,3 +4,4 @@ this_text = "";
 this_show_at_x = 0;
 this_obj = "";
 this_idx = 0;
+global.allow_clicks = false;

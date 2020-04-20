@@ -1,7 +1,7 @@
 
 global.jok = ds_list_create() //list for the object you need to find
 instance_create_layer(room_width /2 ,room_height,"Instances",find_bar)
-
+global.allow_clicks = true;
 
 
 
