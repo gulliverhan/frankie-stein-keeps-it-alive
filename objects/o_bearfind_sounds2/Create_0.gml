@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(x < 200){
-	x = x +4
-}
+view_length = 60
+view_counter = 0
+shake_length = 5
+shake_strength=10

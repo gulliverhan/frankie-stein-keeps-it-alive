@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0a58131b-7bb0-4a11-8eb1-99534a9c5959",
+            "Value": {
+                "id": "88c3ef10-a64b-4318-8a70-eb44cf912947",
+                "resourcePath": "objects\/o_bearfind_sounds\/o_bearfind_sounds.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e7462bf-ff37-48f9-8c5f-e680aa12d592",
             "Value": {
                 "id": "15a4ab68-1c73-413e-8cc8-190a9e2710f7",
@@ -468,6 +476,14 @@
                 "id": "8b4e235c-ae82-49fe-82c5-7e932d4c2ec7",
                 "resourcePath": "views\/c0493350-a6ef-4745-a885-d8a82298388d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c16ad016-eec1-449d-a4d0-1c3828a0658a",
+            "Value": {
+                "id": "98555f51-a47e-4727-97f0-bce9c6623a90",
+                "resourcePath": "objects\/o_bearfind_sounds2\/o_bearfind_sounds2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
