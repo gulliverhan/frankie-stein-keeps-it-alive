@@ -1,1 +1,1 @@
-s_school_before()
+s_camera_before()

@@ -6,7 +6,7 @@ if(global.camera_after == false){
 	global.step = 0;
 	global.this_inst1 = "";
 	global.this_inst2 = "";
-	s_school_after_script()
+	s_camera_after_script()
 
 } else {
 	if(global.step_change){
@@ -15,7 +15,7 @@ if(global.camera_after == false){
 			instance_destroy(global.step_instances[i]);
 		}
 		global.step++;
-		s_school_after_script();
+		s_camera_after_script();
 	}
 
 

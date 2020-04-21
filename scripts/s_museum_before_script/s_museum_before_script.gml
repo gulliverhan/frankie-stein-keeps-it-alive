@@ -8,7 +8,7 @@ switch (global.step)
 {
 	case 0: 
 		global.this_inst1 = instance_create_layer(x_start,y_pos,layer_name,speech_custom)
-		global.this_inst1.this_text = "Great, there looks to be a bunch of useful stuff here?";
+		global.this_inst1.this_text = "Wow, what wierd and wonderful things";
 		global.this_inst1.this_show_at_x = 420;
 		break;
 	case 1: 
@@ -16,7 +16,7 @@ switch (global.step)
 		this_instbear = instance_create_layer(600,300,"Instances",o_bear_circle)
 		this_instbear.sprite_index = spr_bedroom_bear_alive;
 		this_inst2 = instance_create_layer(-100,bear_y,layer_name,speech_bear)
-		this_inst2.this_text = "Looks like a bunch more old junk to me, get me something to power me you dumbo!";
+		this_inst2.this_text = "You better hurry up and find me something better to think with or I won't be the only one with nails in my head!";
 		this_inst2.this_show_at_x = 240;
 		global.step_instances[1] = this_inst2;
 		var next_butt = instance_find(button_next_step,0);
